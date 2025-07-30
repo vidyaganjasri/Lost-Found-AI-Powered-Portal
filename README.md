@@ -40,28 +40,32 @@ The primary objective of this project is to build a secure, user-friendly, and e
 
 
 This dashboard allows students to view their reported items, report new lost items, or report items they have found. The status of their reported items is clearly displayed.
+
 <img width="1033" height="502" alt="image" src="https://github.com/user-attachments/assets/e7703937-c2e7-43e6-8687-80642ba468d8" />
 
 
 ### Admin Dashboard
 
 The administrator's dashboard provides a comprehensive overview of all reported items. Admins can initiate object detection, notify users, or mark items as returned.
+
 <img width="1173" height="474" alt="image" src="https://github.com/user-attachments/assets/16f6d8dc-f272-4a99-8ff5-bc499e9b6a4b" />
 
 
 ### Laptop Object Detection (Library Results)
 
 This image demonstrates the YOLOv8 model detecting a laptop within the library environment, showcasing the real-world application of the object detection feature.
+
 <img width="776" height="481" alt="image" src="https://github.com/user-attachments/assets/763c03a9-df3d-4cec-8133-f0fa5791da2c" />
 
 
 ### Bottle Object Detection (Library Results)
 
 This image shows the YOLOv8 model successfully identifying a bottle in the library, alongside the admin dashboard interface, confirming the effectiveness of the detection.
+
 <img width="624" height="368" alt="image" src="https://github.com/user-attachments/assets/41a09ceb-f5f8-450c-838e-08db759d4a6f" />
 
 
-## Technologies Used (Assumed)
+## Technologies Used 
 
 While specific technologies were not fully detailed, based on the features described, the project likely utilizes:
 
