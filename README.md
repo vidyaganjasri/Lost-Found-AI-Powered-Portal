@@ -72,7 +72,7 @@ While specific technologies were not fully detailed, based on the features descr
 * **Frontend:** React, CSS
 
 * **Backend:** Express.js, Node.js
-* **Database:** MongoDB
+* **Database:** MySQL
 
 * **AI/ML:** YOLOv8 for real-time object detection.
 
